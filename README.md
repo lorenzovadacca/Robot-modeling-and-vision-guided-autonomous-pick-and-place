@@ -103,7 +103,7 @@ This laboratory extends robotic software design into geometric coordinate manage
 ## Project structure
 
 ```plaintext
-L2_ROS_MATLAB/
+root/
 ├── L2 - ROS Basics with MATLAB - part2.pdf               # Slide deck & theoretical material
 │
 ├── tf/                                                  # Coordinate Transformation Tree
