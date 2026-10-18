@@ -1,4 +1,4 @@
-# Robot modeling (URDF/TF) and Vision-Guided Autonomous Pick & Place via ROS, Gazebo & Stateflow (Robotics project)
+# Robot modeling (URDF/TF) and Vision-Guided Autonomous Pick & Place via ROS, Gazebo & Stateflow (Robotics)
 
 An advanced simulation and robot integration laboratory covering **Coordinate Transformation Trees (`tf`)**, **Kinematic Robot Modeling (`URDF`)**, **Bag File Analysis**, and **Gazebo Co-Simulation (Pick-and-Place with Kinova Gen3)**, developed for the **Robotics** course at Politecnico di Torino.
 
